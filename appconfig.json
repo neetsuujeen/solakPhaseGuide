@@ -1,6 +1,6 @@
 {
     "appName": "Solak Phase Guide",
-    "description": "Checks item prices using Ely.gg",
+    "description": "Guide on Solak's hp cap for each phase",
     "appUrl": "./index.html",
     "configUrl": "./appconfig.json",
     "iconUrl": "./assets/favicon.png",

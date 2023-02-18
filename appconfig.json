@@ -1,5 +1,5 @@
 {
-    "appName": "PriceChecker",
+    "appName": "Solak Phase Guide",
     "description": "Checks item prices using Ely.gg",
     "appUrl": "./index.html",
     "configUrl": "./appconfig.json",

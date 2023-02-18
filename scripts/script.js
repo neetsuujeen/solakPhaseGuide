@@ -53,7 +53,7 @@ async function getHpData() {
     const selectedValue = document.getElementById("teamSize").value;
     const phaseHp = solakPhaseHps[selectedValue];
 
-    document.getElementById("totalHp").innerHTML = phaseHp.start;
+    document.getElementById("totalHp").innerHTML = "Total: " + phaseHp.start;
     document.getElementById("p1").innerHTML = phaseHp.phaseOne;
     document.getElementById("p2").innerHTML = phaseHp.phaseTwo;
     document.getElementById("p3").innerHTML = phaseHp.phaseThree;
